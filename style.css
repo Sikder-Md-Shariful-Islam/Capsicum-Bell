@@ -1,0 +1,206 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+.nav-capsicum{
+    color: orange;
+    font-weight: 700;
+    font-size: 20px;
+}
+.nav-bell{
+    color: grey;
+    font-weight: 700;
+    font-size: 20px;
+}
+.nav-bar ul{
+    list-style-type: none;
+}
+.nav-bar li a{
+    text-decoration: none;
+}
+.logo{
+    float: left;
+    padding-left: 100px;
+}
+li{
+    display: inline;
+}
+.nav-item{
+    font-weight: 700;
+    font-size: 20px;
+    padding-left: 5%;
+}
+.nav-item a{
+    color: grey;
+}
+.home{
+    margin-left: 20%;
+}
+.heading-left{
+    margin-left: 5%;
+    width: 40%;
+    padding: 5%;
+}
+.heading-left h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.container{
+    display: flex;
+}
+.capsicum-bell-text{
+    color: orange;
+}
+.heading-left a{
+    padding: 10px 40px;
+    border-radius: 100px;
+    background-image: linear-gradient(tomato, orange);
+    text-decoration: none;
+    color: white;
+}
+.heading-right{
+    width: 40%;
+}
+.heading-right img{
+    width: 100%;
+    margin-right: 10%;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+/* .about-me-div{
+    display: flex;
+    background-image: url(images/about-me-bg.png);
+    background-repeat: no-repeat;
+} */
+.half-width img{
+    max-width: 200px;
+    margin-left: 20%;
+}
+.about-me-div{
+    display: flex;
+}
+.half-width h3{
+    font-weight: 700;
+    font-size: 20px;
+    color: #707070;
+}
+.half-width a{
+    padding: 10px 40px;
+    border-radius: 100px;
+    background-image: linear-gradient(tomato, orange);
+    text-decoration: none;
+    color: white;
+}
+.half-width p{
+    width: 444px;
+}
+.about-me-div{
+    background-image: url(images/about-me-bg.png);
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    padding-top: 20px;
+}
+#recipe{
+    margin-top: 20px;
+}
+.recipe_top p{
+    padding: 0 300px;
+    margin-bottom: 50px;
+}
+.recipe_top{
+    text-align: center;
+}
+.recipe_top {
+    text-align: center;
+}
+.shadow{
+    width: 95%;
+}
+.shadow-box-1{
+    width: 30%;
+    background-color: white;
+    padding: 15px;
+
+}
+.shadow-box-1 img{
+    border-radius: 15px;
+    width: 100%;
+}
+.shadow-box-1{
+    box-shadow: 10px 10px 50px grey;
+    border-radius: 15px;
+    margin-left: 5%;
+}
+.shadow{
+    display: flex;
+}
+#subscriber{
+    width: 95%;
+}
+.subscriber-div{
+    display: flex;
+}
+.sub-div{
+    width: 30%;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.sub-div h3{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.subscriber-div{
+    box-shadow: 10px 10px 50px grey;
+    margin-left: 5%;
+    border-radius: 10px;
+}
+footer{
+    background-color: #0B0D17;
+    padding: 30px 50px 1px;
+}
+footer{
+    text-align: center;
+}
+.footer-capsicum{
+    color: orange;
+}
+.footer-top p{
+    color: white;
+}
+.footer-bell{
+    color: grey;
+}
+#heading-section{
+    margin-bottom: 60px;
+}
+#about-me-section{
+    margin-bottom: 60px;
+}
+#recipe{
+    margin-bottom: 80px;
+}
+#subscriber{
+    margin-bottom: 80px;
+}
+.textarea a{
+    padding: 10px 50px;
+    border-radius: 100px;
+    background-image: linear-gradient(cyan,blue);
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+}
+textarea{
+    border-radius: 20px;
+}
+.footer{
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
